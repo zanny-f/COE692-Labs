@@ -1,0 +1,7 @@
+com/mycompany/helper/Author.class
+com/mycompany/helper/Book.class
+com/mycompany/helper/BooksXML.class
+com/mycompany/frontendflight/business/XMLParser.class
+com/mycompany/frontend/FrontEnd.class
+com/mycompany/frontendflight/business/Business.class
+com/mycompany/frontend/Authenticate.class
