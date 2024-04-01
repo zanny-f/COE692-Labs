@@ -1,0 +1,7 @@
+com/mycompany/searchflights/helper/FlightsXML.class
+com/mycompany/searchflights/persistence/Flight_CRUD.class
+com/mycompany/searchflights/helper/Airline.class
+com/mycompany/searchflights/helper/Flight.class
+com/mycompany/searchflights/endpoint/ApplicationConfig.class
+com/mycompany/searchflights/endpoint/SearchResource.class
+com/mycompany/searchflights/business/SearchBusiness.class
