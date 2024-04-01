@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--Ugly interface. It is just for test, whether services work or not!-->
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        
+        <form action="webresources/apply/update" method="post"> 
+            <input type="text" id="firstName" placeholder="Applicant First Name" name="firstName" >
+            <input type="text" id="lastName" placeholder="Applicant Last Name" name="lastName" >
+            <input type="text" id="email" placeholder="Applicant Email" name="email" >
+            <input type="text" id="phoneNumber" placeholder="Applicant Phone Number" name="phoneNumber" >
+            <input type="text" id="GPA" placeholder="GPA" name="GPA" >
+            <input type="text" id="school" placeholder="School" name="school" >
+            <select id="schoolYear" name="schoolYear">
+              <option value="yearOne">1st Year</option>
+              <option value="yearTwo">2nd Year</option>
+              <option value="yearThree">3rd Year</option>
+              <option value="yearFour">4th Year</option>
+              <option value="yearFive">5th+ Year</option>
+              <option value="yearSix">Post Graduate</option>
+            </select>
+
+            <select id="gender" name="gender">
+              <option value="man">Man</option>
+              <option value="woman">Woman</option>
+              <option value="non-binary">Non-Binary</option>
+            </select>
+            <button type="submit">create</button>
+        </form>
+        
+    </body>
+</html>
