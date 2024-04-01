@@ -1,0 +1,5 @@
+com/mycompany/bookflight/persistence/FLIGHT_Schedule_CRUD.class
+com/mycompany/bookflight/endpoint/ApplicationConfig.class
+com/mycompany/bookflight/endpoint/ScheduleResource.class
+com/mycompany/bookflight/business/ScheduleBusiness.class
+com/mycompany/bookflight/helper/FlightSchedule.class
